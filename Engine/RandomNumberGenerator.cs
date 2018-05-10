@@ -7,7 +7,7 @@ using System.Security.Cryptography;
 
 namespace Engine
 {
-    class RandomNumberGenerator
+    public static class RandomNumberGenerator
     {
 
         // quasi-random

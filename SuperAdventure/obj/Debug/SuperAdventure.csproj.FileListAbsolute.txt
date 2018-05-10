@@ -11,3 +11,16 @@ F:\Tutorials\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csproj.CopyC
 F:\Tutorials\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.exe
 F:\Tutorials\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.pdb
 F:\Tutorials\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.SuperAdventure.resources
+F:\Documents\Dropbox\C#\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe.config
+F:\Documents\Dropbox\C#\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe
+F:\Documents\Dropbox\C#\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.pdb
+F:\Documents\Dropbox\C#\SuperAdventure\SuperAdventure\bin\Debug\Engine.dll
+F:\Documents\Dropbox\C#\SuperAdventure\SuperAdventure\bin\Debug\Engine.pdb
+F:\Documents\Dropbox\C#\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csprojResolveAssemblyReference.cache
+F:\Documents\Dropbox\C#\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.Properties.Resources.resources
+F:\Documents\Dropbox\C#\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.SuperAdventure.resources
+F:\Documents\Dropbox\C#\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csproj.GenerateResource.cache
+F:\Documents\Dropbox\C#\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csproj.CoreCompileInputs.cache
+F:\Documents\Dropbox\C#\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csproj.CopyComplete
+F:\Documents\Dropbox\C#\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.exe
+F:\Documents\Dropbox\C#\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.pdb

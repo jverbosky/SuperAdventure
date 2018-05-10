@@ -4,3 +4,9 @@ F:\Tutorials\SuperAdventure\Engine\obj\Debug\Engine.csprojResolveAssemblyReferen
 F:\Tutorials\SuperAdventure\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
 F:\Tutorials\SuperAdventure\Engine\obj\Debug\Engine.dll
 F:\Tutorials\SuperAdventure\Engine\obj\Debug\Engine.pdb
+F:\Documents\Dropbox\C#\SuperAdventure\Engine\bin\Debug\Engine.dll
+F:\Documents\Dropbox\C#\SuperAdventure\Engine\bin\Debug\Engine.pdb
+F:\Documents\Dropbox\C#\SuperAdventure\Engine\obj\Debug\Engine.csprojResolveAssemblyReference.cache
+F:\Documents\Dropbox\C#\SuperAdventure\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+F:\Documents\Dropbox\C#\SuperAdventure\Engine\obj\Debug\Engine.dll
+F:\Documents\Dropbox\C#\SuperAdventure\Engine\obj\Debug\Engine.pdb
